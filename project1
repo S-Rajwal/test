@@ -1,0 +1,14 @@
+this is file1.
+class A{
+int num;
+String name;
+}
+class B{
+public static void main(String[] args)
+{
+B ob=new B();
+ob.num=10;
+ob.name="dumb";
+}
+}
+
